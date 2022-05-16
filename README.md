@@ -4,4 +4,4 @@ Some description.
 
 ## Sub Headder
 
-Some text>
+Some text.
