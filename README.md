@@ -1,3 +1,3 @@
 # Agenda
 
-Some description
+Some description.
